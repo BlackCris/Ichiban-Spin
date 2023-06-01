@@ -104,3 +104,14 @@ body{
   left: 5rem;
   height: 2rem;
 }
+.credit {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #f4cad338;
+  text-align: center;
+  padding: 5px;
+  font-size: 13px;
+  color: #888;
+}
